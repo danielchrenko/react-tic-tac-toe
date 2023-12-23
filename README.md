@@ -3,7 +3,7 @@
 ## Key learning outcomes:
 - Usestates
 - Arrow functions
-- Importance of immutable data types
+- Leveraging immutable data types for "save states"
 
 ![image](https://github.com/danielchrenko/react-tic-tac-toe/assets/135289806/64efe944-817c-4369-b4a8-088a7e871677)
 
